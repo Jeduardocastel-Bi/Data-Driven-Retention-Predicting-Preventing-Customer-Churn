@@ -32,4 +32,4 @@ Churn occurs when a customer stops using the gym's services. This can happen exp
 
 ---
 
-🔗 **Link to the Project**: 
+🔗 **Link to the Project**:  https://github.com/Jeduardocastel/10.-Customer-Retention-Analysis-for-Model-Fitness/blob/main/Sprint%2013.ipynb
