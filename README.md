@@ -31,5 +31,31 @@ Churn occurs when a customer stops using the gym's services. This can happen exp
 - Machine Learning Model Training  
 
 ---
+## 📊 Project Results  
+1. **Exploratory Data Analysis (EDA):**  
+   - Identified key trends in customer behavior.  
+   - Detected correlations between gym attendance, membership type, and churn rates.  
+
+2. **Data Cleaning and Preparation:**  
+   - Handled missing values and inconsistencies.  
+   - Processed categorical and numerical features for machine learning models.  
+
+3. **Customer Segmentation:**  
+   - Defined distinct customer groups based on age, contract type, attendance frequency, and engagement levels.  
+   - High-risk groups (e.g., occasional users and short-term contract holders) were identified.  
+
+4. **Churn Prediction Model:**  
+   - Developed a **machine learning model** using **Scikit-learn** to predict customer churn.  
+   - Evaluated model performance using **accuracy, precision, recall, and F1-score**.  
+
+5. **Key Churn Influencing Factors:**  
+   - Low attendance frequency.  
+   - Short-term membership contracts.  
+   - Lack of participation in gym events or programs.  
+
+6. **Retention Strategies Proposed:**  
+   - Targeted promotions for at-risk members.  
+   - Personalized offers and engagement programs.  
+   - Incentives for long-term memberships.  
 
 🔗 **Link to the Project**:  https://github.com/Jeduardocastel/10.-Customer-Retention-Analysis-for-Model-Fitness/blob/main/Sprint%2013.ipynb
