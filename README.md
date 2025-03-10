@@ -32,30 +32,18 @@ Churn occurs when a customer stops using the gym's services. This can happen exp
 
 ---
 ## 📊 Project Results  
-1. **Exploratory Data Analysis (EDA):**  
-   - Identified key trends in customer behavior.  
-   - Detected correlations between gym attendance, membership type, and churn rates.  
+### 🔍 Loyal Customer Segments  
+- **Clusters 1 and 3:** These groups show **low churn rates**, indicating that they are highly engaged and active users.  
+- **Retention Strategy:**  
+  - Implement a **loyalty program** to further encourage gym attendance and spending on additional services.  
+  - **For Cluster 3:** Offer **discounts** or promotions allowing them to bring a guest for a limited time. This would help with retention while simultaneously attracting new customers.  
+  - **For Cluster 1:** These members have a membership but visit less frequently. **Incentives or discounts** can encourage them to use their membership more often and strengthen their commitment to the brand.  
 
-2. **Data Cleaning and Preparation:**  
-   - Handled missing values and inconsistencies.  
-   - Processed categorical and numerical features for machine learning models.  
+### 🚨 High-Risk Customer Segments  
+- **Clusters 0 and 2:** These groups have **low visit frequency and high churn rates** but still spend money on **additional services**.  
+- **Retention Strategy:**  
+  - Develop **bundled offers** that integrate gym access with extra services.  
+  - Example: Create **packages** that grant **gym access + extra classes or swimming pool privileges** to encourage regular attendance.  
 
-3. **Customer Segmentation:**  
-   - Defined distinct customer groups based on age, contract type, attendance frequency, and engagement levels.  
-   - High-risk groups (e.g., occasional users and short-term contract holders) were identified.  
-
-4. **Churn Prediction Model:**  
-   - Developed a **machine learning model** using **Scikit-learn** to predict customer churn.  
-   - Evaluated model performance using **accuracy, precision, recall, and F1-score**.  
-
-5. **Key Churn Influencing Factors:**  
-   - Low attendance frequency.  
-   - Short-term membership contracts.  
-   - Lack of participation in gym events or programs.  
-
-6. **Retention Strategies Proposed:**  
-   - Targeted promotions for at-risk members.  
-   - Personalized offers and engagement programs.  
-   - Incentives for long-term memberships.  
 
 🔗 **Link to the Project**:  https://github.com/Jeduardocastel/10.-Customer-Retention-Analysis-for-Model-Fitness/blob/main/Sprint%2013.ipynb
